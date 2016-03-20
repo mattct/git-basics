@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fef1aad4-ab63-4164-9eaf-7f2c04a52842" name="Default" comment="">
-<<<<<<< HEAD
-<<<<<<< HEAD
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_css/main.css" afterPath="$PROJECT_DIR$/_css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-=======
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_css/main.css" afterPath="$PROJECT_DIR$/_css/main.css" />
->>>>>>> bugfix
-=======
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
->>>>>>> bugfix
     </list>
     <ignored path="git-basics.iws" />
     <ignored path=".idea/workspace.xml" />
