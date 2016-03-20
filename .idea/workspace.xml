@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fef1aad4-ab63-4164-9eaf-7f2c04a52842" name="Default" comment="">
+<<<<<<< HEAD
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_css/main.css" afterPath="$PROJECT_DIR$/_css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_css/main.css" afterPath="$PROJECT_DIR$/_css/main.css" />
+>>>>>>> bugfix
     </list>
     <ignored path="git-basics.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,8 +47,13 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="25" />
     <option name="y" value="35" />
+=======
+    <option name="x" value="38" />
+    <option name="y" value="46" />
+>>>>>>> bugfix
     <option name="width" value="1360" />
     <option name="height" value="834" />
   </component>
@@ -128,15 +137,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1458512223300</updated>
+<<<<<<< HEAD
       <workItem from="1458512224514" duration="413000" />
+=======
+      <workItem from="1458512224514" duration="567000" />
+>>>>>>> bugfix
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="413000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="25" y="35" width="1360" height="834" extended-state="1" />
+=======
+    <option name="totallyTimeSpent" value="567000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="38" y="46" width="1360" height="834" extended-state="1" />
+>>>>>>> bugfix
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24943988" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -165,6 +185,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/_css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
@@ -183,6 +204,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+=======
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="109" column="1" selection-start-line="109" selection-start-column="1" selection-end-line="109" selection-end-column="1" />
+>>>>>>> bugfix
           <folding />
         </state>
       </provider>
